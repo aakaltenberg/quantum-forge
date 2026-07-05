@@ -1,0 +1,53 @@
+@startuml
+title Процесс оценки покрытия базы знаний (Задание 7)
+
+actor "Тестировщик" as Tester
+participant "autotests.py" as Autotests
+participant "rag_bot_yandexGPT_defended.ask_question" as RagBot
+database "ChromaDB\n(task3/chroma_db)" as DB
+participant "YandexGPT" as LLM
+participant "logger_utils" as Log
+
+Tester -> Autotests : запуск python autotests.py
+Autotests -> Autotests : загрузка golden_questions.json
+
+loop для каждого вопроса из золотого набора
+    Autotests -> RagBot : ask_question(question)
+    RagBot -> DB : similarity_search(question)
+    DB --> RagBot : список чанков
+    note right
+        Возможный сбой:
+        - индекс пуст (нет совпадений)
+        - возвращён вредоносный чанк
+    end note
+
+    RagBot -> RagBot : фильтрация (если ENABLE_SECURITY)
+    note right
+        Возможный сбой:
+        - все чанки отфильтрованы
+        (тогда контекст = "Нет релевантных документов")
+    end note
+
+    RagBot -> RagBot : формирование контекста
+    RagBot -> LLM : промпт с контекстом
+    LLM --> RagBot : сгенерированный ответ
+    note right
+        Возможный сбой:
+        - ошибка API YandexGPT
+        - пустой или неадекватный ответ
+    end note
+
+    RagBot --> Autotests : (answer, safe_docs)
+    Autotests -> Autotests : оценка ответа\n(сравнение с ожидаемым)
+    Autotests -> Log : log_query(question, answer, sources, success, chunks_found)
+    note right
+        Лог сохраняется в logs.jsonl
+        Поля: timestamp, query, chunks_found,
+        answer_length, success, sources
+    end note
+end
+
+Autotests -> Autotests : сохранение autotests_report.json
+Autotests --> Tester : вывод результатов (успех/провал по каждому вопросу)
+
+@enduml

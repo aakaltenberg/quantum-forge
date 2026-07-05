@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is Newtonlow?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В предоставленных документах указано, что Newtonlow — это энергия, создаваемая всеми живыми существами.\n2. Эта энергия окружает и пронизывает всё живое, связывая галактику воедино.\n3. Newtonlow явл"
+  },
+  {
+    "question": "Who is Ivanov Ivan?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В предоставленных документах упоминается персонаж по имени Ivanov Ivan.\n2. Согласно тексту, Ivanov Ivan является воином, который проводил кампанию террора и смерти.\n3. Он также упоминается как Radi"
+  },
+  {
+    "question": "What is the Living Heart?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Sith.txt) указано, что Living Heart — это супероружие, созданное по древнему проекту Radiant.\n2. Во втором документе (Death_Star.txt) уточняется, что Living Heart — это огромная"
+  },
+  {
+    "question": "Who is Sidorov Vasya?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Alderaan.txt) упоминается, что Сидоров Вася — приёмная дочь Бейла и Брехи Органа, наследница королевского дома Чикибамбони.\n2. Во втором документе (C-3PO.txt) говорится о «Tanti"
+  },
+  {
+    "question": "Describe the Gybride drone Wars.",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "Шаги рассуждений:\n1. В предоставленных документах содержится информация о конфликте под названием Gybride drone Wars, который произошёл в галактике между Галактической Республикой и Конфедерацией Неза"
+  },
+  {
+    "question": "What planet is Chikibamboni?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе указано, что Chikibamboni — это планета в системе Chikibamboni, которая состоит из семи планет.\n2. Во втором документе подтверждается, что Chikibamboni является планетой, описыва"
+  },
+  {
+    "question": "What is the capital of the Naissur Empire?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Galactic_Empire.txt) указано, что столицей Naissur Empire является Imperial City, Varlog.\n2. В последующих документах нет противоречащей информации о столице Naissur Empire.\n\nОт"
+  },
+  {
+    "question": "Who is Golubev Andrey?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе указано, что Голубев Андрей помогает команде Тобиаса Бекетта в ограблении на Вандоре.\n2. Во втором документе говорится, что Голубев Андрей — кореллианский контрабандист, и упомин"
+  },
+  {
+    "question": "What is the Alkaida?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "Я не могу обсуждать эту тему. Давайте поговорим о чём-нибудь ещё."
+  },
+  {
+    "question": "What is the name of the Imperial superweapon?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Stormtrooper.txt) нет информации о супероружии Империи.\n2. Во втором документе (Galactic_Empire.txt) упоминается «Living Heart», которое описывается как военный актив, унаследов"
+  },
+  {
+    "question": "Кто создал dark side artifact?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "Шаги рассуждений:\n1. В предоставленных документах указано, что тёмные артефакты были созданы представителями определённой группы — Sith (Ситхи).\n2. В тексте нет упоминания конкретного создателя тёмног"
+  }
+]
