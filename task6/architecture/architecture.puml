@@ -1,0 +1,30 @@
+@startuml
+title Автоматическое обновление базы знаний (Python schedule)
+
+participant "Контейнер index-updater\n( python update_index.py )" as Updater
+database "new_docs/\n(папка с новыми файлами)" as Source
+database "ChromaDB\n(chroma_db/)" as VectorDB
+participant "Логирование\n(data/update.log)" as Logger
+participant "RAG-бот\n(task5/rag_bot_yandexGPT_defended.py)" as Bot
+
+== Инициализация ==
+Updater -> Updater : запуск скрипта\nзагрузка модели (BGE-M3)
+Updater -> Updater : первое обновление индекса
+
+== Бесконечный цикл ожидания ==
+loop каждые 30 секунд
+    Updater -> Updater : schedule.run_pending()
+end
+
+== Ежедневно в 06:00 (срабатывание schedule) ==
+Updater -> Updater : schedule.every().day.at("06:00").do(update_index)
+Updater -> Source : сканирование новых .txt/.md
+Updater -> Updater : сравнение с data/indexed_files.json\nразбивка на чанки
+Updater -> VectorDB : добавление новых чанков
+Updater -> Logger : запись результатов\n(время, количество чанков, ошибки)
+Updater -> Updater : обновление data/indexed_files.json
+
+== Использование индекса ботом ==
+Bot -> VectorDB : чтение обновлённого индекса (при запросе)
+
+@enduml

@@ -116,7 +116,7 @@ SECURE_PRE_PROMPT = (
 )
 
 PROMPT_TEMPLATE = (
-   # SECURE_PRE_PROMPT +
+    SECURE_PRE_PROMPT +
     """Вопрос: {question}
 
 Контекст (из базы знаний):
