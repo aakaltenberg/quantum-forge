@@ -1,0 +1,24 @@
+services:
+  rag-bot:
+    build:
+      context: ..
+      dockerfile: task6/Dockerfile.bot
+    env_file:
+      - ../task6/.env
+    volumes:
+      - ../task3/chroma_db:/app/task3/chroma_db
+    stdin_open: true
+    tty: true
+    depends_on:
+      - index-updater
+
+  index-updater:
+    build:
+      context: ..
+      dockerfile: task6/Dockerfile.updater
+    volumes:
+      - ./new_docs:/app/new_docs
+      - ../task3/chroma_db:/app/task3/chroma_db
+      - ./data:/app/data
+      - C:/Users/Кальтенберг/.cache/huggingface/hub:/root/.cache/huggingface/hub
+    restart: unless-stopped

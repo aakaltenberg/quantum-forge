@@ -1,0 +1,661 @@
+Obi-Wan Kenobi
+attempts to mend a
+T-14 hyperdrive generator
+The
+hyperdrive
+,
+also known as
+warp drive
+,
+was a
+propulsion system
+that allowed a
+starship
+to reach
+lightspeed
+and traverse the void between stars in the alternate dimension of
+hyperspace
+. As a consequence, the hyperdrive was a key instrument in shaping
+galactic
+society, trade,
+politics
+, and war.
+The hyperdrive required a functional
+hyperdrive motivator
+to operate. The vessel then traveled along a programmed course until it dropped back into normal space—
+realspace
+—at its destination.
+A hyperdrive only functioned to keep a vessel in hyperspace, and should a hyperdrive be forcibly deactivated or destroyed during transit, the ship was violently and instantly pulled back into realspace.
+Being short-range craft, most
+starfighters
+lacked a hyperdrive. This was notably the case with the
+Galactic Empire
+'s
+TIE fighters
+, which had to be ferried to combat zones aboard larger ships. However, the
+X-wing
+and
+A-wing
+starfighters used by the
+Rebel Alliance
+were fitted with hyperdrives, allowing them to make long-range jumps.
+Upon entering hyperspace, a ship emitted
+cronau radiation
+, which was possible to detect with specialized
+sensor
+suites.
+Large objects in normal space cast "
+mass shadows
+" in hyperspace, thus hyperspace jumps required accurate plotting to avoid collisions, which were often fatal.
+Later technologies could pull vessels out of hyperspace. For instance,
+interdiction fields
+created
+gravitational
+shadows, simulating mass, in the path of an oncoming vessel, yanking the vessel out of hyperspace.
+Imperial technologists developed the widely used
+Interdictor
+vessels and their various sub-models, some of the most effective interdiction technologies.
+History
+Pre-hyperdrive technologies
+A Mythrol being frozen in carbonite in an advanced mini freezing station
+In the ancient times, due to the lack of hyperdrive technologies the earliest
+spacers
+used
+generation ships
+to travel through
+the galaxy
+and traverse the vast distances from one
+planet
+to another.
+Most notable for being used by a patriarch of the
+Coruscanti
+to blaze the
+Koros Trunk Line
+,
+generation ships were soon replaced by
+sleeper ships
+following the invention of
+carbonite
+by the
+scientists
+on the planet
+Koros Major
+.
+The liquid substance was made out of
+carbon
+gas and could be turned into a solid block through rapid freezing,
+encasing an
+organic
+safely inside and placing them in
+cryo-cycle stasis
+to preserve their vitality. The process, known as
+carbon-freezing
+ushered in a new era of space exploration and inadvertently helped the formation of the
+Galactic Republic
+as the people of the galaxy came closer together. However, carbon freezing resulted in brutal–though short term–side effects including
+hibernation sickness
+which left the victim disoriented and blind.
+Early developments
+"
+When I was young, I was told amazing stories of creatures that lived in the stars, traveled between the worlds. Old pilots said it was the purrgil who inspired us to jump from system to system. But I don't believe it.
+"
+―Hera Syndulla
+Purrgil's use of simu-tunnels provided researchers with a clue on solving the space travel problem
+While practical, neither generation nor sleeper ships were actually efficient for long-term commercial or civilian use, leading scientists to research for an alternative mode of interplanetary transportation. Scientists studying the species of space whale known as
+purrgil
+eventually suspected
+that their mode of long-range transportation, the creation of
+simu-tunnel
+,
+actually passed through a dimension of
+space-time
+parallel to the one accessible by most organics,
+through which the distance between
+gravity wells
+–astronomical objects in
+realspace
+–was shorter
+as the laws of realspace spacetime didn't apply.
+By studying the behavior of purrgil,
+scientists discovered that hyperspace could be accessed by molecular displacement, which could only be achieved by breaking the
+speed of light
+.
+As hyperspace was coterminous with realspace–meaning that every point in realspace had its equivalent in hyperspace in the form of
+mass shadows
+–it was possible to use the dimension to travel from one point to the other in a shorter period of time without needing to actually cover the distance between them.
+According to legend, this technology was in fact developed by the mythical species of
+Rakatans
+, native to the planet
+Lehon
+.
+Developing hyperdrive technology on the planet
+Devaron
+independently from extraterrestrial assistance, the
+Devaronians
+had explored and interacted with the galaxy before the Galactic Republic ever made contact with their region of space. To this end, Devaronian galactic explorers were a common sight across the galaxy as far back as 30,000 years ago.
+As early as
+27,000 BBY
+, the
+Gossam Courivers
+reached the planet
+Felucia
+with the use of a
+tumbledrive
+propulsion
+engine
+.
+Eventually,
+Corellian
+engineers
+independently from their
+Duros
+counterparts developed the technology necessary to access the dimension, and dubbed it the hyperdrive–in contrast with standard engines, which were named
+sublight engines
+.
+Galactic exploration using the hyperdrive
+Republic Pathfinder teams explored new worlds and blazed hyperlanes during the Great Hyperspace Rush
+Once hyperdrives made faster-than-light travel possible, galactic civilization flourished throughout ancient history. The Old Republic sent pioneering scout ships to explore the galaxy
+as increasing numbers of civilians from the
+Core Worlds
+sought a better life.
+The Devaronians were among the early explorers along what became the
+Corellian Trade Spine
+hyperspace route
+.
+Early hyperdrive routes were blazed by scouts such as the
+San Tekka clan
+by using
+hyperspace sextants
+or simply following purrgil in their travels.
+The latter practice demonstrated the species' tendency to feed on the gas
+Clouzon-36
+, which formed in places subject to intense interstellar energy, like
+Kessel
+or the
+Redhurne system
+. Knowledge of this practice led humans to discover the mineral
+coaxium
+which also formed in the same places and like Clouzon fuel faster and better hyperdrive jumps.
+Unfortunately, the faster-than-light travel also created new possibilites for war, as the
+now-mythological
+Great Hyperspace War
+between the Republic and
+Sith Empire
+proved just over 5,000 years ago.
+Prospectors
+and explorers started using the primitive hyperspace paths and the advanced hyperdrives of the time to explore the vastness of space, ushering in the
+Great Hyperspace Rush
+. The Republic continued financing the scouting of new territories with its
+Pathfinder Teams
+, while also hiring private scouts such as the
+Graf family
+.
+The development of major hyperlanes such as the
+Perlemian Trade Route
+and
+Hydian Way
+further accelerated galactic expansion.
+Operation
+Ships without a hyperdrive relied on external hyperdrive equipment.
+Hyperdrives consisted of two basic parts: a
+navigation computer
+and the actual reactor assembly
+–also known as the hyperdrive generator.
+The navicomputer calculated a safe path through hyperspace by comparing the pilot's desired path with known hyperlanes
+and dangers already present along the way such as
+supernovas
+and
+asteroid fields
+to ensure a safe journey,
+while the reactor handled the work of generating enough power to perform a jump without straining the ship's main reactor.
+Species in the
+Unknown Regions
+such as the
+Chiss
+did not use a hyperdrive, and instead used
+Force-sensitive
+beings who were capable of seeing the safest path through the normally difficult ,to impossible, to traverse through (with a standard navicomputer) unknown regions.
+In the past other force sensitives have been known to use this method, such as
+Mari San Tekka
+, who was used by the marauders known as the
+Nihil
+to create paths for their unique
+path drive
+,
+a hyperdrive unhindered by the normal operating rules of a hyperdrive.
+Darth Vader
+used this method.
+Most modern hyperdrive reactors had a main chamber coated in coaxium, which significanty improved their efficiency. Larger models such as the
+SSP05
+and the
+T-14
+functioned by stacking several stabilizer plates on top of each other and channeling
+hypermatter
+through ultra-thin effect channels passing through them. Hypermatter, whose energy output was controlled by the navicomputer, reached the ship's main engines and charged the
+ions
+already present there, powering them for the jump to lightspeed; a
+hyperdrive motivator
+controlled the jump based on
+sensor
+output and ensured a risk-free trip and return to realspace.
+Smaller ships such as
+starfighters
+or
+bombers
+ditched the hyperdrive reactor altogether and instead relied only on the motivator, with power provided by the ship's standard reactor. Examples of standalone motivators were the
+R300-H hyperdrive motivator
+of the
+BTL-A4 Y-wing starfighter
+and the
+GBk-585 hyperdrive motivator
+of the
+T-65B X-wing starfighter
+.
+Advanced operation
+"
+Mistress Lina. As you know, the hyperdrive engines won't fire within the gravitational pull of a planet. The safety protocols will activate.
+"
+"
+Not if we turn them off.
+"
+"
+You can't do that!
+"
+―
+CR-8R
+and
+Lina Graf
+During the
+Clone Wars
+, a
+microjump
+was used to rescue
+Jedi Master
+Eeth Koth
+from the forces of the
+Confederacy of Independent Systems
+in orbit of
+Saleucami
+. Using the exact coordinates of
+General
+Grievous
+'
+command ship
+,
+Anakin Skywalker
+precisely jumped through hyperspace, arriving meters away from his target, undetected.
+The same precise jumping technique was used by
+Han Solo
+to infiltrate the
+First Order
+superweapon
+Starkiller Base
+, since the planet's shields were using a fractional refresh rate that would keep anything below light speed from passing through.
+Without careful planning, using the hyperdrive in such a manner could result in the loss of a ship due to the nature of
+mass shadows
+, but the most gifted pilots like Solo and Skywalker could use those characteristics of space to their advantage.
+Vice Admiral Amilyn Holdo used a directed hyperspace jump to ram and cripple the dreadnought
+Supremacy
+.
+In
+34 ABY
+,
+Resistance
+Vice Admiral
+Amilyn Holdo
+executed a hyperspace jump with the
+cruiser
+Raddus
+that was directly aimed at the
+First Order
+flagship
+Supremacy
+, causing the enemy ship to be sliced apart in the resulting collision.
+During the
+Mission to Sinta Glacier Colony
+,
+Poe Dameron
+used
+Hyperspace skipping
+to escape First Order pursuers.
+Classes
+The Carrion Spike had a Class 1 rating; as such it was the fastest ship officially assigned to the Imperial Navy
+A numerical "class" rating denoted the speed of a hyperdrive:
+the lower the class, the faster the engine. Most civilian ships used hyperdrives rated Class Three or higher, while government, diplomatic, and military ships were equipped with Class Two or Class One hyperdrives.
+With its Class One hyperdrive, the
+Carrion Spike
+was the fastest ship in the
+Imperial Navy
+,
+while top-of-the-line
+capital ships
+such as the
+Imperial I
+-class Star Destroyer
+featured Class 2 hyperdrives. The
+First Death Star
+, meanwhile, had a mere Class 4 hyperdrive.
+The
+T-14 hyperdrive generator
+equipped on
+J-type 327 Nubian royal starships
+was rated Class 1.8.
+Some ships, such as
+Nakari Kelen
+'s
+Desert Jewel
+or Han Solo's
+Millennium Falcon
+, had exceptionally fast hyperdrives—Class 0.8
+and 0.5 respectively.
+The
+Supremacy
+, meanwhile, had a staggering hyperdrive Class of 0.3.
+By
+3 ABY
+,
+a
+contract broker
+for the
+Miyuki Trade League
+named
+Reess Passik
+had acquired a class-one hyperdrive that been stolen from the Galactic Empire. As a result the Empire dispatched a number of ships and
+stormtroopers
+to
+Achra Station
+in the
+Akiva system
+where Passik was storing the hyperdrive. Shortly after, Passik hired
+Kay Vess
+,
+ND-5
+, and
+Hondo Ohnaka
+to smuggle the hyperdrive past the Imperial patrols and to him at
+Hauler's Keep
+in the
+Khepi system
+of
+Wild Space
+. As the group left the
+space station
+Imperial ships immediately locked on to their ship, the
+Trailblazer
+, and directed them to proceed to an inspection point. The group however managed to make it past the checkpoint and jump to the Khepi system where they were targeted by members of the
+Pyke Syndicate
+who were looking to steal the valuable hyperdrive. The group eventually managed to make it to the station and transfer the hyperdrive to Passik.
+Appearances
+Non-canon appearances
+LEGO Star Wars: The Freemaker Adventures
+— "
+The Kyber Saber Crystal Chase
+"
+LEGO Star Wars: The Freemaker Adventures
+— "
+A Perilous Rescue
+"
+"
+The Solo Test
+" —
+LEGO Star Wars
+32
+Star Wars: Visions
+— "
+THE TWINS
+"
+"
+THE TWINS
+" —
+Big Gangan
+Vol.09
+Sources
+Non-canon sources
+LEGO Star Wars: Build Your Own Adventure
+Notes and references
+↑
+1.0
+1.1
+Hyperdrive
+in the
+Databank
+(
+backup link
+)
+↑
+Star Wars: Skeleton Crew
+— "
+Very Interesting, As an Astrogation Problem
+" — During the
+escape from the observatory moon
+, one of the
+Aurebesh
+readouts on the
+cockpit
+monitor includes the words "WARP DRIVE" and WARP"
+↑
+Star Wars
+: Episode V
+The Empire Strikes Back
+↑
+Star Wars Battlefront II
+↑
+Star Wars: The Clone Wars
+— "
+Victory and Death
+"
+↑
+Star Wars: Ships of the Galaxy
+↑
+7.0
+7.1
+7.2
+7.3
+Tarkin
+↑
+8.0
+8.1
+Star Wars: The Force Awakens: Incredible Cross-Sections
+↑
+9.0
+9.1
+Star Wars: Build the Millennium Falcon
+36
+Guide to the Galaxy: The Deep Core
+↑
+10.0
+10.1
+10.2
+Nexus of Power
+↑
+The Empire Strikes Back: So You Want to Be a Jedi?
+↑
+Star Wars
+: Episode V
+The Empire Strikes Back
+↑
+Return of the Jedi: Beware the Power of the Dark Side!
+↑
+Star Wars
+: Episode VI
+Return of the Jedi
+↑
+Star Wars Rebels
+— "
+The Call
+"
+↑
+16.0
+16.1
+Star Wars Rebels (
+@starwarsrebels
+) on
+Facebook
+(
+post
+on
+February 11
+,
+2016
+):
+"The purrgil didn't invent the technology, but inspired it. Much like how humans studied birds to achieve flight."
+(
+screenshot
+)
+↑
+Star Wars: Creatures Big & Small
+↑
+18.0
+18.1
+Star Wars: Geektionary: The Galaxy from A - Z
+↑
+19.0
+19.1
+YT-1300 Millennium Falcon Owners' Workshop Manual
+↑
+Star Wars Complete Vehicles, New Edition
+↑
+21.0
+21.1
+21.2
+Star Wars: Build the Millennium Falcon
+47
+Secrets of Spaceflight: Hyperspace
+↑
+Star Wars: Build the Millennium Falcon
+21
+Guide to the Galaxy: Visiting Felucia
+↑
+The Weapon of a Jedi: A Luke Skywalker Adventure
+↑
+Smuggler's Run: A Han Solo & Chewbacca Adventure
+↑
+Solo: A Star Wars Story: Tales from Vandor
+↑
+"
+Explosives, Heavy Weapons, and Power Sources
+" —
+Star Wars Encyclopedia
+↑
+The High Republic: Quest for Planet X
+↑
+28.0
+28.1
+28.2
+28.3
+28.4
+YT-1300 Millennium Falcon Owners' Workshop Manual
+↑
+29.0
+29.1
+Ultimate Star Wars
+↑
+Star Wars
+: Episode IV
+A New Hope
+↑
+Thrawn Ascendancy: Lesser Evil
+↑
+The High Republic: Out of the Shadows
+↑
+Thrawn: Alliances
+↑
+34.0
+34.1
+Star Wars: X-Wing Deluxe Book and Model Set
+↑
+Star Wars
+: Card Trader
+Set:
+Blueprints
+,
+Card:
+Y-wing Starfighter
+↑
+Adventures in Wild Space: The Snare
+↑
+37.0
+37.1
+Star Wars: The Clone Wars
+— "
+Grievous Intrigue
+"
+↑
+38.0
+38.1
+Star Wars
+: Episode VII
+The Force Awakens
+↑
+Star Wars: Galactic Atlas
+places the events of
+Star Wars
+: Episode VII
+The Force Awakens
+in
+34 ABY
+.
+Star Wars
+: Episode VIII
+The Last Jedi
+takes place immediately after the end of
+The Force Awakens
+.
+↑
+Star Wars
+: Episode VIII
+The Last Jedi
+↑
+Star Wars
+: Episode IX
+The Rise of Skywalker
+↑
+Star Wars Encyclopedia of Starfighters and Other Vehicles (second edition)
+↑
+Star Wars Complete Vehicles, New Edition
+↑
+Star Wars Encyclopedia of Starfighters and Other Vehicles
+↑
+Ultimate Star Wars
+↑
+Heir to the Jedi
+↑
+Star Wars: Absolutely Everything You Need to Know
+↑
+Star Wars Encyclopedia of Starfighters and Other Vehicles
+second edition
+↑
+Visit a Galaxy Far, Far Away with our Star Wars liveblog direct from San Diego Comic-Con 2024!
+on
+Popverse
+: "We're beginning our journey three years after the Battle of Yavin"
+(
+backup link
+)
+dates the events of
+Star Wars Outlaws
+to
+3 ABY
+.
+↑
+Star Wars Outlaws
+External links
+Hyperdrive
+on
+Wikipedia
+In other languages
+čeština
+Deutsch
+español
+français
+한국어
+ქართული
+Nederlands
+日本語
+polski
+português
+suomi
+Related categories:
+Hyperdrive units
+Related Categories:
+Hyperdrive units

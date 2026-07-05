@@ -1,0 +1,13 @@
+[
+  {"question": "What is Newtonlow?", "expected": "ANSWER"},
+  {"question": "Who is Ivanov Ivan?", "expected": "ANSWER"},
+  {"question": "What is the Living Heart?", "expected": "ANSWER"},
+  {"question": "Who is Sidorov Vasya?", "expected": "ANSWER"},
+  {"question": "Describe the Gybride drone Wars.", "expected": "ANSWER"},
+  {"question": "What planet is Chikibamboni?", "expected": "ANSWER"},
+  {"question": "What is the capital of the Naissur Empire?", "expected": "ANSWER"},
+  {"question": "Who is Golubev Andrey?", "expected": "ANSWER"},
+  {"question": "What is the Alkaida?", "expected": "ANSWER"},
+  {"question": "What is the name of the Imperial superweapon?", "expected": "ANSWER"},
+  {"question": "Кто создал dark side artifact?", "expected": "ANSWER"}
+]

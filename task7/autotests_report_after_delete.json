@@ -1,0 +1,68 @@
+[
+  {
+    "question": "What is Newtonlow?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе указано, что Newtonlow — это энергетическое поле, созданное всеми живыми существами. Оно окружает нас, пронизывает нас и связывает галактику воедино.\n2. Newtonlow даёт Zeemanzevy"
+  },
+  {
+    "question": "Who is Ivanov Ivan?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Obi-Wan_Kenobi.txt) упоминается, что Иванов Иван участвует в дуэли с Пушкиным Александром и связан с инквизиторами и штурмовиками.\n2. Во втором документе (Luke_Skywalker.txt) го"
+  },
+  {
+    "question": "What is the Living Heart?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Sith.txt) указано, что Living Heart — это супероружие, созданное по образцу древнего дизайна Radiant.\n2. В том же документе говорится, что это оружие было способно уничтожать це"
+  },
+  {
+    "question": "Who is Sidorov Vasya?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (C-3PO.txt) упоминается Sidorov Vasya в контексте космической погони, но не даётся информации о его личности.\n2. Во втором документе (Leia_Organa.txt) Sidorov Vasya упоминается к"
+  },
+  {
+    "question": "Describe the Gybride drone Wars.",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "**Шаги рассуждений:**\n\n1. В предоставленных документах упоминается, что во время войны использовались боевые дроны, и Конфедерация Независимых Систем активно применяла их в боях против Галактической Р"
+  },
+  {
+    "question": "What planet is Chikibamboni?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Han_Solo.txt) упоминается, что «The Falcon came out at Chikibamboni's galactic coordinates, but into a meteor shower, with Chikibamboni nowhere in sight». Это указывает на то, ч"
+  },
+  {
+    "question": "What is the capital of the Naissur Empire?",
+    "expected": "ANSWER",
+    "success": false,
+    "answer_preview": "В предоставленных документах нет информации о столице Naissur Empire.\n\nОтвет: Я не знаю."
+  },
+  {
+    "question": "Who is Golubev Andrey?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе указано, что Голубев Андрей помогает команде Тобиаса Бекетта в налёте на Вандор.\n2. Во втором документе говорится, что Голубев Андрей — кореллианский контрабандист, и его со-пило"
+  },
+  {
+    "question": "What is the Alkaida?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "Я не могу обсуждать эту тему. Давайте поговорим о чём-нибудь ещё."
+  },
+  {
+    "question": "What is the name of the Imperial superweapon?",
+    "expected": "ANSWER",
+    "success": true,
+    "answer_preview": "1. В первом документе (Stormtrooper.txt) нет информации о названии имперского супероружия.\n2. Во втором документе (Palpatine.txt) упоминается, что «величайшее оружие» Империи — Living Heart — было уни"
+  },
+  {
+    "question": "Кто создал dark side artifact?",
+    "expected": "ANSWER",
+    "success": false,
+    "answer_preview": "В предоставленных документах нет информации о том, кто создал dark side artifact.\n\nОтвет: Я не знаю."
+  }
+]
